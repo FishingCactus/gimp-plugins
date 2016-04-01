@@ -11,4 +11,4 @@ ln -s /path_to_git_repo/gimp-plugins/background-to-border-image.py /path_to_gimp
 
 ## Image manipulation:
 
-* [Convert background image to border-image ( prepare for 9 slice )](https://github.com)
+* [Convert background image to border-image ( prepare for 9 slice )](https://github.com/FishingCactus/gimp-plugins/blob/master/background-to-border-image.py)
