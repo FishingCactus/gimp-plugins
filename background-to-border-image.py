@@ -53,10 +53,6 @@ def convert(image, layer):
     # Close the undo group.
     pdb.gimp_undo_push_group_end(image)
 
-    print "Output : Run
-    some test"
-    return "Test"
-
 register(
     "python_fu_background_to_border_image",
     "Convert background to border image",
